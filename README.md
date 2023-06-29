@@ -1,0 +1,2 @@
+# DHA
+ disable hardware acceleration
